@@ -157,5 +157,3 @@ The system will be a cloud-based solution supporting high traffic with AWS cloud
 
 ---
 
-This document provides a structured plan for developing a scalable and efficient event booking website.
-
