@@ -1,5 +1,3 @@
-**Software Requirements Specification (SRS) Document**
-
 # **1. Introduction**
 ## **1.1 Purpose**
 The purpose of this document is to define the software requirements for an event booking website that enables users to book different types of events such as corporate gatherings, weddings, engagements, etc. The system will be scalable, handling up to 25 lakh users efficiently using AWS services.
